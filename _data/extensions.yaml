@@ -421,6 +421,11 @@ categories:
         - kogito
         - drools
         - jbpm
+        - bpmn
+        - bpmn2
+        - dmn
+        - drl
+        - pmml
         groupId: io.quarkus
         artifactId: quarkus-kogito
   - category: Cloud
